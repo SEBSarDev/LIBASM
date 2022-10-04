@@ -10,4 +10,6 @@ This school 42 project allowed me to learn some basic elements of assembly langu
 - strdup
 
 To run project please just :
+```
 $ make
+```
