@@ -9,3 +9,5 @@ This school 42 project allowed me to learn some basic elements of assembly langu
 - read
 - strdup
 
+To run project please just :
+$ make
